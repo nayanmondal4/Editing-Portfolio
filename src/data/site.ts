@@ -6,7 +6,7 @@ export const site = {
   name: "Nayan",
   role: "Video Editor | Motion Designer",
   /** Public URL — file should live in `public/` */
-  heroImage: "/hero.jpg",
+  heroImage: "/Hero.jpg",
   headline: "Nayan",
   headlineAccent: "Crafting interactive videos",
   heroIntro:
